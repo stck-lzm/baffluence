@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function picker {
-  name="$(wget -q -O- \
+  name=$(wget -q -O- \
     --header="User-Agent: Affluences/201706280" \
     --header="Content-Type: application/x-www-form-urlencoded" \
     --post-data="api_key=&sites_revision=0" \
@@ -12,7 +12,7 @@ function picker {
   }
 }' \
   | grep -i "$1" \
-  | head -n1)"
+  | head -n1)
   nb=$(echo $name | awk -F'-' '{print $1}')
 }
 
