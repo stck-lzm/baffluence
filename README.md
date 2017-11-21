@@ -11,10 +11,10 @@ It requires:
 
 ### usage
 To execute the script give it execute access.  
-`chmod +x baffluences`  
+`chmod +x baffluence`  
   
 Then, ask a library like:  
-`./baffluences bsg`  
+`./baffluence bsg`  
   
 It should return:  
 ```
@@ -26,8 +26,8 @@ prevision:
 21h30	 50%  
 61-Paris-Bibliothèque Sainte-Geneviève-BSG
 ```
-This library is one of the first of the [list](https://pastebin.com/raw/Jnk0b61R) so it works fine.
-If your research does not work, i recommend you to check the [list](https://pastebin.com/raw/Jnk0b61R) to get your number. 
+This library is one of the first of the [list](affluence.full.txt) so it works fine.
+If your research does not work, i recommend you to check the [list](affluence.full.txt) to get your number. 
 
 ### todo
 Add a search option, or make the picker function more accurate.
