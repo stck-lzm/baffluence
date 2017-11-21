@@ -26,8 +26,8 @@ prevision:
 21h30	 50%  
 61-Paris-Bibliothèque Sainte-Geneviève-BSG
 ```
-This library is one of the first of the [list](affluence.full.txt) so it works fine.
-If your research does not work, i recommend you to check the [list](affluence.full.txt) to get your number. 
+This library is one of the first of the [list](baffluence/blob/master/affluence.full.txt) so it works fine.
+If your research does not work, i recommend you to check the [list](baffluence/blob/master/affluence.full.txt) to get your number. 
 
 ### todo
 Add a search option, or make the picker function more accurate.
