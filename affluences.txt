@@ -1,0 +1,229 @@
+60-Paris-Bibliothèque Publique d'Information-Bpi
+61-Paris-Bibliothèque Sainte-Geneviève-BSG
+63-Paris-Bibliothèque Sainte-Barbe-Sainte-Barbe
+64-Paris-Bibliothèque Nationale de France-BnF
+74-Paris-Cité Internationale Universitaire de Paris-CIUP
+75-Paris-Université Paris 2 Panthéon-Assas-Assas
+76-Paris-BU Paris-Sorbonne-Michelet
+77-Paris-BU Paris-Sorbonne-Marcel Bataillon
+78-Paris-BU Paris-Sorbonne-Serpente
+79-Paris-BU Paris-Sorbonne-Clignancourt
+80-Paris-Bibliothèque de la cité des sciences-Bibliothèque-BSI
+81-Rennes-BU Rennes 1-BU DroitEcoGest
+82-Rennes-BU Rennes 1-BU Santé
+83-Rennes-BU Rennes 1-BUSciencesPhilo
+84-Paris-BU Malesherbes - Paris-Sorbonne-Malesherbes
+92-Paris-Université Pierre et Marie Curie-BUPMC - BCPR
+93-Paris-Université Pierre et Marie Curie-BUPMC - MIR
+94-Paris-Médiathèque Marguerite Yourcenar-Yourcenar
+95-Paris-Bibliothèque municipale Faidherbe-Faidherbe
+96-Paris-Médiathèque Françoise Sagan-Françoise Sagan
+98-Créteil-BU de Créteil-UPEC - Droit
+99-Créteil-BU de Créteil-UPEC - Médecine
+100-Toulouse-Les bibliothèques de UT1 Capitole-BU Arsenal
+101-Toulouse-Les bibliothèques de UT1 Capitole-BU Manufacture
+102-Toulouse-Les bibliothèques de UT1 Capitole-BU Garrigou
+103-Toulouse-Les bibliothèques de UT1 Capitole-BU Boutaric
+104-Angers-Droit, sc. éco & gestion, Tourisme...-BUA St Serge
+105-Angers-Lettres, Sciences Humaines, Sciences-BUA Belle Beille
+106-Paris-Médiathèque Marguerite Duras-Marguerite Duras
+107-Saint-Denis-Bibliothèque de Paris 8-Paris 8
+108-Bonneuil-sur-Marne-BU de Bonneuil-sur-Marne-UPEC - ESPE
+109-Créteil-BU de Créteil-UPEC - Sc. Eco
+110-Paris-Université Pierre et Marie Curie-BUPMC - Licences
+111-Paris-Université Pierre et Marie Curie-BUPMC - Atrium
+112-Paris-Université Pierre et Marie Curie-BUPMC - L1
+113-Strasbourg-Strasbourg-BU PEGE
+114-Strasbourg-Strasbourg-BU INSA
+115-Strasbourg-Strasbourg-BU U2U3
+116-Strasbourg-BU Médecine Odontologie-BU Médecine
+117-Strasbourg-Strasbourg-BNU
+120-Lyon-Université Lyon 1-BU Rockefeller
+122-Paris-BU Censier-Paris 3
+123-Paris-BU Paris-Sorbonne-IEA
+124-Saint-Étienne-Les bibliothèques de l'UJM-BU Tréfilerie
+125-Saint-Priest-en-Jarez-Les bibliothèques de l'UJM-BU Santé
+128-Créteil-BU de Créteil-UPEC - CC
+131-Villeurbanne-Université Lyon 1-BU Sciences Doua
+132-Oullins-Université Lyon 1-BU Lyon-Sud
+133-Lyon-Université Lyon 1-BU Croix-Rousse
+134-Lyon-Université Lyon 1-BU Odontologie
+135-Rennes-BU Rennes 1-SallesLaBorderie
+149-Lille-Bibliothèque Universitaire Vauban-BU Vauban
+150-Caen-Univ. Caen Normandie - PFRS-BU Santé
+151-Guyancourt-Droit éco gestion santé shs lettres-BU St-Quentin
+152-Versailles-Sciences et techniques-BU Versailles
+153-Paris-Bibliothèque Orient et Monde Arabe-Bibliothèque OMA
+154-Paris-Bibliothèques des études italiennes-BU Italien
+155-Paris-Bibliothèque du Monde Anglophone-BU Monde anglo
+156-Paris-Université Paris-Dauphine-Paris Dauphine
+157-Marseille-Aix-Marseille Université-BU Saint-Charles
+158-Marseille-Médecine-Odontologie-BU Timone
+159-Évry-BU Evry-BU centrale
+163-Neuilly-sur-Seine-Bibliothèque-CELSA
+164-Strasbourg-RU Strasbourg-RU Cronenbourg
+165-Strasbourg-RU Strasbourg-RU Paul Appell
+166-Paris-Médiathèque de la Canopée la fontaine-Canopée
+167-Paris-Bibliothèque de la Sorbonne-BIS
+168-Nancy-Université de Lorraine-BU Gestion Nancy
+169-Nancy-Université de Lorraine-BU Droit Nancy
+174-Neuilly-sur-Seine-Neuilly Campus-Neuilly Campus
+183-Paris-Bibliothèque de la Pitié-Salpêtrière-Pitié
+184-Paris-Bibliothèque hospitalière St Antoine-St Antoine
+185-Roubaix-EDHEC Business School Lille-EDHEC Lille
+187-Paris-Médiathèque du Palais de la Porte Dorée-Palais Porte Dorée
+189-Brunstatt-Université de Haute-Alsace Mulhouse-BU Illberg
+190-Nancy-Université de Lorraine-IUT Charlemagne
+192-Metz-Université de Lorraine-BU Saulcy
+193-Colmar-Université de Haute-Alsace Mulhouse-BU Colmar
+194-Paris-Bibliothèque Géosciences Environnement-BUPMC - GEOS
+195-Bordeaux-BU Sciences de l'Homme-BUSH - Victoire
+196-Talence-BU Sciences et Techniques-BUST - Talence
+197-Bordeaux-Infothèque du PUSG-Infothèque -PUSG
+198-Ecublens-Rolex Learning Center-Bibliothèque EPFL
+199-Issy-les-Moulineaux-Médiathèque d'Issy-les-Moulineaux-Centre Médiathèque
+200-Issy-les-Moulineaux-Médiathèque d'Issy-les-Moulineaux-Temps des Cerises Médiathèque
+201-Villeneuve-d'Ascq-Learning Center Innovation-Lilliad
+203-Paris-Bibliothèque de l'INED-INED
+204-Issy-les-Moulineaux-Médiathèque d'Issy-les-Moulineaux-Chartreux Médiathèque
+205-Genève-Bibliothèque de l'Université de Genève-UNI CMU
+210-Bordeaux-Bibliothèque Sciences du Vivant et Santé-BUSVS - Carreire
+211-Lille-Université Lille 2-BU Droit
+212-Loos-Université Lille 2-BU Santé
+213-Villeneuve-d'Ascq-Université Lille SHS-BU Lille 3
+214-Pessac-Bibliothèque de Sciences Po Bordeaux-Sciences Po Bx
+215-Mulhouse-Université de Haute-Alsace Mulhouse-BU Fonderie
+222-Paris-Musée d'Orsay-Musée d'Orsay
+223-Issy-les-Moulineaux-élection et affaires générales-État civil
+229-Issy-les-Moulineaux-Fort d'Issy-les-Moulineaux-Piscine du Fort
+232-Paris-Musée du Louvre-Musée du Louvre
+241-Paris-Bibliothèque du cinéma François Truffaut-Cinema Truffaut
+242-Paris-Médiathèque Hélène Berr-Hélène Berr
+244-Gif-sur-Yvette-CentraleSupélec-Bib Gif\/Yvette
+245-Colmar-Pôle Média-Culture Edmond Gerrer (PMCEG)-PMC
+246-Colmar-bibliothèque Europe-Europe
+249-Lyon-IEP Lyon-Sciences Po Lyon
+250-Lyon-Université Lumière Lyon 2-BU Chevreul
+251-Illkirch-Graffenstaden-BIP-BU IUT-Pharmacie
+252-Issy-les-Moulineaux-centre administratif municipal-Education
+253-Issy-les-Moulineaux-Culture Animation Loisirs Ville d'Issy-CLAVIM
+254-Bron-Université Lumière Lyon 2-BU Bron
+256-Villeurbanne-INSA Lyon-Bib Marie Curie
+257-Ostwald-Piscines de l'Eurométropole-Ostwald
+259-Illkirch-Graffenstaden-Piscines de l'Eurométropole-La Hardt
+260-Strasbourg-Piscines de l'Eurométropole-Kibitzenau
+261-Strasbourg-Piscines de l'Eurométropole-Robertsau
+262-Lingolsheim-Piscines de l'Eurométropole-Lingolsheim
+263-Strasbourg-Piscines de l'Eurométropole-Wacken
+264-Schiltigheim-Centre nautique de Schiltigheim-CN Schiltigheim
+271-Jouy-en-Josas-Campus - Jouy-en-Josas-HEC Paris
+272-Lyon-Université Jean Moulin Lyon 3-BU Manufacture
+274-Alfortville-Médiathèque du Pôle culturel-Pôle culturel
+275-Besançon-Université de Franche-Comté-BU Lettres
+276-Besançon-Université de Franche-Comté-BU Santé
+277-Strasbourg-Bibliothèque Histoire 1er cycle-BU Histoire 1er
+278-Strasbourg-Bibliothèque de Recherche Historique-BRH
+279-Strasbourg-Médiathèque de l'ESPE - Strasbourg-BU ESPE Meinau
+280-Illkirch-Graffenstaden-Bibliothèque du Pôle API-BU Pôle API
+282-Lausanne-Bibliothèque Universitaire de Médecine-BiUM \/ CHUV
+283-Paris-Cité des sciences et de l'industrie-Cité des Sciences et de l'Industrie
+284-Paris-Palais de la découverte-Palais-découverte
+286-Villers-lès-Nancy-Université de Lorraine-BU Sciences
+287-Nancy-Université de Lorraine-BU Pharmacie
+288-Nancy-Université de Lorraine-BU Lettres SHS
+289-Vandœuvre-lès-Nancy-Université de Lorraine-BU Ingé Brabois
+290-Montigny-lès-Metz-Université de Lorraine-ESPE Montigny
+291-Maxéville-Université de Lorraine-ESPE Maxéville
+292-Créteil-Médiathèque de l'Abbaye - Nelson Mandela-Nelson Mandela
+295-Paris-UMR 8210 : ANHIMA-Bib Gernet Glotz
+304-Paris-Bib historique Ville de Paris-Bib historique
+305-Mulhouse-Université de Haute-Alsace Mulhouse-BU Collines
+306-Caen-Bibliothèque Alexis de Tocqueville-Bibliothèque Alexis de Tocqueville
+311-Paris-Cité de l'architecture et du patrimoine-Bib Cité architecture
+314-Liège-Droit, Economie, Gestion et Sc sociales-U. Liège - Graulich
+315-Liège-Archi, Lettres, Philo, Histoire et Arts-U. Liège - ALPHA
+316-Liège-Sciences-U. Liège - BST\/Sciences
+317-Liège-Médecine, Vété, Psy, Sc Educ-U. Liège - BSV
+318-Cachan-Ecole normale supérieure Paris-Saclay-ENS Paris-Saclay
+320-Paris-Galerie des Gobelins-Mobilier national \/ Les Gobelins
+322-Caen-Univ. Caen Normandie - Campus 1-BU Droit-Lettres
+323-Caen-Univ. Caen Normandie - Campus 2-BU Sciences-STAPS
+327-Paris-Musée de la Contrefaçon-Musée-contrefaçon
+328-Strasbourg-RU Strasbourg-RU Gallia
+329-Strasbourg-RU Strasbourg-RU Esplanade
+330-Illkirch-Graffenstaden-RU Strasbourg-RU Illkirch
+331-Paris-Bibliothèque centrale • salle recherche-Muséum national d'histoire naturelle
+332-Mantes-la-Jolie-IUT-BU Mantes
+340-Herblay-CA Val Parisis-Les Grands Bains
+341-Cormeilles-en-Parisis-CA Val Parisis-Les Océanides
+342-Pierrelaye-CA Val Parisis-Les Nymphéas
+344-Paris-Musée en Herbe-Musée en Herbe
+345-Paris-Institut national d'histoire de l'art-INHA
+348-Orsay-Université Paris-Sud-BU Orsay
+349-Liège-BIBLIOTHEQUE CHIROUX-BIBLIOTHEQUE CHIROUX
+350-Châtenay-Malabry-Université Paris-Sud-BU Châtenay
+352-Saint-Martin-d'Hères-Université Grenoble Alpes-BU Droit Lettres
+353-Saint-Martin-d'Hères-Université Grenoble Alpes-BU Sciences
+354-La Tronche-Université Grenoble Alpes-BU Médecine Pharmacie
+356-Sceaux-Université Paris-Sud-BU Sceaux
+357-Valbonne-Campus Sophia-SKEMA BS
+358-Biot-Université de Nice Sophia-Antipolis-Learning Centre SophiaTech
+359-Nice-Université de Nice Sophia-Antipolis-BU Saint-Jean d'Angély
+360-Metz-Bibliothèque Metz CentraleSupélec-Bib Metz
+361-Moulins-Moulins Communauté Agglomération-Médiathèque Moulins
+366-Paris-Centre Pompidou-Centre Pompidou
+367-Cergy-ESSEC BUSINESS SCHOOL-ESSEC - Klab\/Learning Center
+371-Paris-Eau de Paris-Pavillon de l'Eau
+372-Écully-emlyon business school-Learning Hub Lyon - Ecully
+373-Saint-Étienne-emlyon business school-Learning Hub Saint-Etienne
+374-Paris-emlyon business school-Learning Hub Paris
+375-Écully-emlyon business school-maker's lab Lyon - Ecully
+376-Paris-Musée national Jean-Jacques Henner-Musée Henner
+378-Cesson-Sévigné-CentraleSupélec-Bib Rennes
+381-Écully-Ecole Centrale de Lyon-Bib Michel Serres
+386-Paris-Musée Yves Saint Laurent Paris-Musée YSL Paris
+387-region-Centre des monuments nationaux-Arc de triomphe
+390-Lille-Bibliothèque de Sciences Po Lille-Sciences Po Lille
+391-Paris-Philharmonie de Paris-Exposition Barbara
+392-Paris-Domaine de Longchamp-Fondation GoodPlanet
+393-Barcelona-BRGF-Biblioteca Rector Gabriel Ferraté
+397-Paris-P7 - BU d'odontologie Garancière-Odontologie
+399-Barcelona-BETSEIB-Biblioteca de l'ETSEIB
+400-Paris-Paris Campus-ESCP Europe
+401-La Garde-BU La Garde - Université de Toulon-BU La Garde
+402-Toulon-BU Droit Université de Toulon-BU Droit Toulon
+403-Paris-exposition Paysages français-BnF-expositions
+409-Paris-Médiathèque Edmond Rostand-Médiathèque Edmond Rostand
+65-Paris-Bibliothèque Nationale de France-Salle A
+66-Paris-Bibliothèque Nationale de France-Salle B
+67-Paris-Bibliothèque Nationale de France-Salle C
+68-Paris-Bibliothèque Nationale de France-Salle D
+69-Paris-Bibliothèque Nationale de France-Salle E-F-G-H
+70-Paris-Bibliothèque Nationale de France-Salle I
+71-Paris-Bibliothèque Nationale de France-Salle J
+170-Nancy-Université de Lorraine-Droit
+171-Nancy-Université de Lorraine-Droit salle Kolb
+172-Paris-Université Paris-Dauphine-Etude
+173-Paris-Université Paris-Dauphine-Recherche
+208-Villeneuve-d'Ascq-Learning Center Innovation-1er étage
+209-Villeneuve-d'Ascq-Learning Center Innovation-2e étage
+224-Paris-Musée d'Orsay-Tout public 
+225-Paris-Musée d'Orsay-Prioritaire
+234-Paris-Musée du Louvre-Carrousel
+239-Paris-Musée du Louvre-Pyramide
+240-Paris-Musée du Louvre-Pyramide e-billet
+265-Issy-les-Moulineaux-Education - quotient familial-Calcul QF
+266-Issy-les-Moulineaux-Service Education-Paiement TELISS
+267-Issy-les-Moulineaux-service Education CAM-Ecole-Education
+268-Issy-les-Moulineaux-Service Education-CAM-Inscrip scolaire
+269-Issy-les-Moulineaux-service état civil - CAM-Passeport ou CNI
+270-Issy-les-Moulineaux-service état civil - CAM-Autres demandes
+336-Paris-Cité des sciences et de l'Industrie-Entrée
+337-Paris-Cité des sciences et de l'industrie-Expositions
+338-Paris-Cité des sciences et de l'industrie-Caisses
+363-Châtenay-Malabry-Université Paris-Sud-1er étage
+364-Châtenay-Malabry-Université Paris-Sud-3eme étage
+404-Barcelona-P1 - Biblioteca Rector Gabriel Ferraté-Planta 1 - BRGF
+405-Barcelona-P2 - Biblioteca Rector Gabriel Ferraté-Planta 2 - BRGF
+406-Barcelona-P3 - Biblioteca Rector Gabriel Ferraté-Planta 3 - BRGF
+408-Barcelona-P0 - Biblioteca Rector Gabriel Ferraté-Planta 0 - BRGF
