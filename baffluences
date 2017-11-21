@@ -1,0 +1,54 @@
+#!/bin/bash
+
+function picker {
+  name=$(wget -q -O- \
+    --header="User-Agent: Affluences/201706280" \
+    --header="Content-Type: application/x-www-form-urlencoded" \
+    --post-data="api_key=&sites_revision=0" \
+    affluences.mobi/PSN/UpdateSites.php \
+    | awk -F'"' '{for(i = 1; i <= NF; i++) 
+  {if($i=="site_id") 
+    {gsub(/[[:punct:]]/,"",$(i+1)); print $(i+1)"-"$(i+26)"-"$(i+8)"-"$(i+4)}
+  }
+}' \
+  | grep -i "$1" \
+  | head -n1)
+  nb=$(echo $name | awk -F'-' '{print $1}')
+}
+
+function info {
+  wget -q -O- \
+  --header="Content-Type:application/x-www-form-urlencoded" \
+  --post-data="site_id=$1" \
+  affluences.mobi/PSN/UpdateData.php
+}
+
+function mnt {
+  if [[ $1 == *-1* ]]; 
+  then 
+    echo -e 'Ferm\u00e9'
+  elif [[ $1 == *remplissage* ]]; 
+  then
+    echo $1 | awk -F'"' '{gsub(/[[:punct:]]/,"",$3); print $3"%"}'
+    unit='%'
+  elif [[ $1 == *actuel* ]]; 
+  then 
+    echo $1 | awk -F'"' '{gsub(/[[:punct:]]/,"",$3); print $3" minutes"}'
+    unit='min'
+  fi
+}
+
+function prev {
+  local i
+  echo 'prevision:'
+  temps=($(echo $1 | awk -F[ '{gsub("\"","",$2); print $2}' | awk -F] '{print $1}' | tr , ' '))
+  valeur=($(echo $1 | awk -F[ '{print $3}' | awk -F] '{print $1}' | tr , ' '))
+  for i in $(seq 0 $((${#temps[@]}-1))); do echo -e "${temps[i]}\t ${valeur[i]}" ; done 
+}
+
+picker "$1"
+mnt $(info $nb)
+if [[ $(info $nb) == *previsions* ]]; then 
+  prev $(info $nb)
+fi
+echo -e "$name"
